@@ -1,2 +1,2 @@
 # vanilla-redux & react-redux
-Learning Vanilla-redux and React-redux.
+Learning Vanilla-redux and React-redux.# vanilla-redux
